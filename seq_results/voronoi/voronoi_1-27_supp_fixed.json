@@ -1,0 +1,319 @@
+{
+    "element_number": 14,
+    "support_number": 14,
+    "base_center_pt": [
+        75.0,
+        75.0,
+        -20.0
+    ],
+    "sequenced_elements": [
+        {
+            "order_id": 0,
+            "wireframe_id": 16,
+            "start_pt": [
+                0.0,
+                105.22500000000001,
+                -20.0
+            ],
+            "end_pt": [
+                0.0,
+                105.22500000000001,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 1,
+            "wireframe_id": 18,
+            "start_pt": [
+                0.0,
+                150.0,
+                -20.0
+            ],
+            "end_pt": [
+                0.0,
+                150.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 2,
+            "wireframe_id": 20,
+            "start_pt": [
+                0.0,
+                54.603,
+                -20.0
+            ],
+            "end_pt": [
+                0.0,
+                54.603,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 3,
+            "wireframe_id": 22,
+            "start_pt": [
+                0.0,
+                0.0,
+                -20.0
+            ],
+            "end_pt": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 4,
+            "wireframe_id": 24,
+            "start_pt": [
+                47.547000000000007,
+                58.766,
+                -20.0
+            ],
+            "end_pt": [
+                47.547000000000007,
+                58.766,
+                15.096
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 5,
+            "wireframe_id": 12,
+            "start_pt": [
+                52.615,
+                113.315,
+                -20.0
+            ],
+            "end_pt": [
+                52.615,
+                113.315,
+                8.259
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 6,
+            "wireframe_id": 26,
+            "start_pt": [
+                69.99,
+                83.733,
+                -20.0
+            ],
+            "end_pt": [
+                69.99,
+                83.733,
+                11.853
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 7,
+            "wireframe_id": 10,
+            "start_pt": [
+                73.505,
+                150.0,
+                -20.0
+            ],
+            "end_pt": [
+                73.505,
+                150.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 8,
+            "wireframe_id": 4,
+            "start_pt": [
+                78.342,
+                39.206,
+                -20.0
+            ],
+            "end_pt": [
+                78.342,
+                39.206,
+                17.578
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 9,
+            "wireframe_id": 6,
+            "start_pt": [
+                79.383,
+                0.0,
+                -20.0
+            ],
+            "end_pt": [
+                79.383,
+                0.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 10,
+            "wireframe_id": 2,
+            "start_pt": [
+                102.058,
+                68.456,
+                -20.0
+            ],
+            "end_pt": [
+                102.058,
+                68.456,
+                14.909
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 11,
+            "wireframe_id": 0,
+            "start_pt": [
+                150.0,
+                73.229,
+                -20.0
+            ],
+            "end_pt": [
+                150.0,
+                73.229,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 12,
+            "wireframe_id": 8,
+            "start_pt": [
+                150.0,
+                0.0,
+                -20.0
+            ],
+            "end_pt": [
+                150.0,
+                0.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        },
+        {
+            "order_id": 13,
+            "wireframe_id": 14,
+            "start_pt": [
+                150.0,
+                150.0,
+                -20.0
+            ],
+            "end_pt": [
+                150.0,
+                150.0,
+                0.0
+            ],
+            "type": "support",
+            "feasible_orientation": [
+                [
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    ]
+}
