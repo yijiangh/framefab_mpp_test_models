@@ -1,0 +1,244 @@
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
+>>>>>>>>>>>>>>>>>>
+Run Epoch Success.
+iter: 0/5
+last val: 1000
+------
+parameters added
+doc_solution triggered
+Output fetch successfully.
