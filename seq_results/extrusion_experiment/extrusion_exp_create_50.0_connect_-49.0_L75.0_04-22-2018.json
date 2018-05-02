@@ -1,0 +1,99 @@
+{
+  "element_number": 4,
+  "support_number": 2,
+  "base_center_pt": [
+    0.0,
+    48.209070726490452,
+    80.0
+  ],
+  "sequenced_elements": [
+    {
+      "order_id": 0,
+      "wireframe_id": 4,
+      "start_pt": [
+        0.0,
+        0.0,
+        80.0
+      ],
+      "end_pt": [
+        0.0,
+        0.0,
+        100.0
+      ],
+      "type": "support",
+      "feasible_orientation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "order_id": 1,
+      "wireframe_id": 6,
+      "start_pt": [
+        0.0,
+        96.4181414529809,
+        80.0
+      ],
+      "end_pt": [
+        0.0,
+        96.4181414529809,
+        100.0
+      ],
+      "type": "support",
+      "feasible_orientation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "order_id": 2,
+      "wireframe_id": 0,
+      "start_pt": [
+        0.0,
+        0.0,
+        100.0
+      ],
+      "end_pt": [
+        0.0,
+        48.209070726490452,
+        157.45333323392336
+      ],
+      "type": "create",
+      "feasible_orientation": [
+        [
+          0.0,
+          -0.7660444431189779,
+          0.64278760968653936
+        ]
+      ]
+    },
+    {
+      "order_id": 3,
+      "wireframe_id": 2,
+      "start_pt": [
+        0.0,
+        96.4181414529809,
+        100.0
+      ],
+      "end_pt": [
+        0.0,
+        48.209070726490452,
+        157.45333323392336
+      ],
+      "type": "connect",
+      "feasible_orientation": [
+        [
+          0.0,
+          0.7547095802227719,
+          0.65605902899050728
+        ]
+      ]
+    }
+  ]
+}

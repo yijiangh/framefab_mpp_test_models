@@ -9,14 +9,14 @@
     "sequenced_elements": [
         {
             "order_id": 0,
-            "wireframe_id": 30,
+            "wireframe_id": 33,
             "start_pt": [
-                0.0,
+                150.0,
                 0.0,
                 -20.0
             ],
             "end_pt": [
-                0.0,
+                150.0,
                 0.0,
                 0.0
             ],
@@ -31,7 +31,7 @@
         },
         {
             "order_id": 1,
-            "wireframe_id": 28,
+            "wireframe_id": 29,
             "start_pt": [
                 75.0,
                 75.0,
@@ -53,14 +53,14 @@
         },
         {
             "order_id": 2,
-            "wireframe_id": 32,
+            "wireframe_id": 31,
             "start_pt": [
-                150.0,
+                0.0,
                 0.0,
                 -20.0
             ],
             "end_pt": [
-                150.0,
+                0.0,
                 0.0,
                 0.0
             ],
@@ -75,15 +75,15 @@
         },
         {
             "order_id": 3,
-            "wireframe_id": 20,
+            "wireframe_id": 21,
             "start_pt": [
-                150.0,
-                0.0,
+                75.0,
+                75.0,
                 0.0
             ],
             "end_pt": [
-                75.0,
-                75.0,
+                150.0,
+                0.0,
                 0.0
             ],
             "type": "connect",
@@ -934,7 +934,7 @@
         },
         {
             "order_id": 5,
-            "wireframe_id": 26,
+            "wireframe_id": 27,
             "start_pt": [
                 0.0,
                 0.0,
@@ -2205,16 +2205,16 @@
         },
         {
             "order_id": 8,
-            "wireframe_id": 22,
+            "wireframe_id": 23,
             "start_pt": [
-                83.0,
-                0.0,
-                54.914
-            ],
-            "end_pt": [
                 0.0,
                 0.0,
                 0.0
+            ],
+            "end_pt": [
+                83.0,
+                0.0,
+                54.914
             ],
             "type": "connect",
             "feasible_orientation": [
@@ -3538,16 +3538,16 @@
         },
         {
             "order_id": 12,
-            "wireframe_id": 2,
+            "wireframe_id": 3,
             "start_pt": [
-                47.542,
-                47.542,
-                82.032
-            ],
-            "end_pt": [
                 83.0,
                 0.0,
                 54.914
+            ],
+            "end_pt": [
+                47.542,
+                47.542,
+                82.032
             ],
             "type": "connect",
             "feasible_orientation": [
@@ -5221,7 +5221,7 @@
         },
         {
             "order_id": 16,
-            "wireframe_id": 10,
+            "wireframe_id": 11,
             "start_pt": [
                 75.0,
                 75.0,

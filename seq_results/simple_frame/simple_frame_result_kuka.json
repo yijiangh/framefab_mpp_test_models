@@ -1005,13 +1005,13 @@
             "wireframe_id": 4,
             "start_pt": [
                 45.0,
-                45.0,
-                0.0
+                0.0,
+                45.0
             ],
             "end_pt": [
                 45.0,
-                0.0,
-                45.0
+                45.0,
+                0.0
             ],
             "type": "connect",
             "feasible_orientation": [
